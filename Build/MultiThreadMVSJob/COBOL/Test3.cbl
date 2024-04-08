@@ -2,5 +2,5 @@
        PROGRAM-ID.  TEST3.
 
        PROCEDURE DIVISION.
-           DISPLAY "Three".
+           DISPLAY "GOOD DAY!!".
            STOP RUN.
