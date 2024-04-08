@@ -2,5 +2,5 @@
        PROGRAM-ID.  TEST1.
 
        PROCEDURE DIVISION.
-           DISPLAY "One".
+           DISPLAY "two".
            STOP RUN.
