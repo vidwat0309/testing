@@ -2,5 +2,5 @@
        PROGRAM-ID.  TEST2.
 
        PROCEDURE DIVISION.
-           DISPLAY "Two".
+           DISPLAY "HELLO CICS_DB2".
            STOP RUN.
