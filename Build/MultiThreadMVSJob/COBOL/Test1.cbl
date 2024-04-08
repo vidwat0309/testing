@@ -2,5 +2,5 @@
        PROGRAM-ID.  TEST1.
 
        PROCEDURE DIVISION.
-           DISPLAY "Ten".
+           DISPLAY "HELLO NORTHERN TRUST".
            STOP RUN.
