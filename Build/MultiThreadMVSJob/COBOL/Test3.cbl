@@ -2,5 +2,5 @@
        PROGRAM-ID.  TEST3.
 
        PROCEDURE DIVISION.
-           DISPLAY "HELLO COBOL".
+           DISPLAY "GOOD DAY!!".
            STOP RUN.
