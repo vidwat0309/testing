@@ -2,5 +2,5 @@
        PROGRAM-ID.  TEST1.
 
        PROCEDURE DIVISION.
-           DISPLAY "HELLO NORTHERN TRUST".
+           DISPLAY "Hello COBOL".
            STOP RUN.
