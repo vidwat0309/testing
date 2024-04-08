@@ -3,4 +3,6 @@
 
        PROCEDURE DIVISION.
            DISPLAY "Three".
+           DISPLAY "two".
+
            STOP RUN.
